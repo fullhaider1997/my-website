@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
+    "export": "next export",
     "start": "next start"
+
   },
   "dependencies": {
     "netlify-cli": "^2.37.0",
