@@ -72,7 +72,7 @@ const Timeline = () => {
       <SectionText>Full Stack Engineer</SectionText>
 
       <SectionSubText style={{ marginButtom: "0px" }}>
-        ONTHECARD | Feb 2021 to April 2022
+        ONTHECARD | May 2021 to August 2021
       </SectionSubText>
 
       <SectionText>

@@ -29,7 +29,7 @@ const Technologies = () => (
           <ListTitle>Programming languages & Frameworks</ListTitle>
           <ListParagraph>
             React.js, JavaScript, Python, Java, C++, TypeScript, Django,
-            GraphQL, Node.js, HTML, CSS, Express
+            GraphQL, Node.js, HTML, CSS, Express.js,
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,7 +41,7 @@ const Technologies = () => (
           <ListTitle>Tools</ListTitle>
           <ListParagraph>
             {" "}
-            Mongodb, MySql, Git, Jira, Postman, WireShark, Jira
+            Mongodb, MySql, Git, Jira, Postman, WireShark, Jira, CIRCLECI
           </ListParagraph>
         </ListContainer>
       </ListItem>

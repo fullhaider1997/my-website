@@ -29,6 +29,15 @@ export const projects = [
     id: 2,
   },
   {
+    title: "Basic pokemon web application",
+    description:
+      "User can scroll back and forward to learn about different pokemons.",
+    image: "/images/pokemon.png",
+    tags: ["React", "TypeScript"],
+    source: "https://github.com/fullhaider1997/Pokeman-assessment",
+    id: 2,
+  },
+  {
     title: "A Shopping Cart",
     description:
       "A Shopping Cart with React and TypeScript. The client can add, remove, update items in his/her cart.",
