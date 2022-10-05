@@ -31,14 +31,15 @@ export const projects = [
     id: 3,
   },
   {
-    title: "Basic pokemon web application",
+    title: "A Shopping Cart",
     description:
-      "User can scroll back and forward to learn about different pokemons.",
-    image: "/images/pokemon.png",
+      "A Shopping Cart with React and TypeScript. The client can add, remove, update items in his/her cart.",
+    image: "/images/cartthree.png",
     tags: ["React", "TypeScript"],
-    source: "https://github.com/fullhaider1997/Pokeman-assessment",
-    id: 4,
+    source: "https://github.com/fullhaider1997/Cart",
+    id: 5,
   },
+
   {
     title: "Smart Mirror IOT ",
     description: "Smart Mirror to teach kids about technology",
@@ -46,15 +47,6 @@ export const projects = [
     tags: ["Java", "Android", "Firebase", "Python"],
     source: "https://github.com/Trung28899/SmartMirrorApp",
     id: 2,
-  },
-  {
-    title: "A Shopping Cart",
-    description:
-      "A Shopping Cart with React and TypeScript. The client can add, remove, update items in his/her cart.",
-    image: "/images/cart.png",
-    tags: ["React", "TypeScript"],
-    source: "https://github.com/fullhaider1997/Cart",
-    id: 5,
   },
 ];
 
