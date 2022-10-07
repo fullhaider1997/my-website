@@ -37,6 +37,15 @@ export const projects = [
     image: "/images/cartthree.png",
     tags: ["React", "TypeScript"],
     source: "https://github.com/fullhaider1997/Cart",
+    id: 4,
+  },
+  {
+    title: "Health managment software",
+    description:
+      "The system will be used by both the patients and administrative/medical staff. A login system is implemented and the system functions differently depending on the user. The patients are able to request appointments with physicians upon approval of administrative staff depending on availability and priority level.",
+    image: "/images/hms.png",
+    tags: ["Java", "MySQL", "Swing"],
+    source: "https://github.com/fullhaider1997/HMS",
     id: 5,
   },
 
@@ -46,6 +55,6 @@ export const projects = [
     image: "/images/smartmirror.png",
     tags: ["Java", "Android", "Firebase", "Python"],
     source: "https://github.com/Trung28899/SmartMirrorApp",
-    id: 2,
+    id: 6,
   },
 ];
